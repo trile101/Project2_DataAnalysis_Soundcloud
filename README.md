@@ -9,11 +9,12 @@ Chi tiết:
 
 Trước khi khám phá dữ liệu, hãy viết ra danh sách ngắn về những gì bạn mong đợi sẽ
 thấy trong dữ liệu: sự phân bố của các biến chính, mối quan hệ / tương quan giữa
-các cặp biến, v.v. Danh sách này về cơ bản là một dự đoán dựa trên hiểu biết hiện tại
+các cặp biến,... Danh sách này về cơ bản là một dự đoán dựa trên hiểu biết hiện tại
 của bạn về dữ liệu.
 
 Trong bước phân tích dữ liệu, lập bảng, tóm tắt, bất cứ điều gì cần thiết để xem nó có
 phù hợp với mong đợi của bạn không.
+
 ● Danh sách kiểm tra phân tích dữ liệu: Danh sách kiểm tra này có thể được sử
 dụng như một hướng dẫn trong quá trình phân tích dữ liệu hoặc như một cách
 để đánh giá chất lượng của một phân tích dữ liệu được báo cáo.
