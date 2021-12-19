@@ -1,4 +1,4 @@
-id,country_code,comments_count,created_at,last_modified,likes_count,followings_count,followers_count,playlist_likes_count,playlist_count,track_count,verified,station_permalink,pro_unlimited,pro,verified
+id,country_code,comments_count,created_at,last_modified,likes_count,followings_count,followers_count,playlist_likes_count,playlist_count,track_count,verified,station_permalink,pro_unlimited,pro,badges.verified
 2,DE,384,2007-07-20 16:07:00+00:00,2020-07-21 08:17:59+00:00,2654,2000,45706,397,24,64,False,artist-stations:2,True,False,False
 6,DE,31,2007-07-20 17:54:00+00:00,2020-01-06 18:00:02+00:00,153,139,8325,6,0,2,False,artist-stations:6,False,False,False
 8,DE,697,2007-07-25 23:08:00+00:00,2020-10-20 14:38:52+00:00,1680,1715,180212,351,34,268,False,artist-stations:8,True,False,False
@@ -390,7 +390,7 @@ id,country_code,comments_count,created_at,last_modified,likes_count,followings_c
 868,GB,91,2007-12-05 14:37:00+00:00,2020-11-22 13:38:06+00:00,15,48,28068,0,58,258,True,artist-stations:868,True,False,True
 870,IT,9,2007-12-05 17:31:00+00:00,2017-01-30 16:49:35+00:00,34,1875,3858,0,0,1,False,artist-stations:870,False,False,False
 872,GR,42,2007-12-05 18:59:00+00:00,2020-11-20 15:21:09+00:00,38,503,94172,2,31,246,True,artist-stations:872,True,False,True
-874,SE,0,2007-12-05 22:56:55+00:00,2018-04-04 16:07:17+00:00,7,3,26,0,0,0,False,artist-stations:874,False,False,False
+874,UnKnown,0,2007-12-05 22:56:55+00:00,2018-04-04 16:07:17+00:00,7,3,26,0,0,0,False,artist-stations:874,False,False,False
 876,IT,21,2007-12-06 05:05:54+00:00,2021-11-10 20:04:48+00:00,82,105,52289,12,9,55,True,artist-stations:876,True,False,True
 878,SE,1,2007-12-06 08:54:00+00:00,2012-01-08 14:51:19+00:00,0,5,20,0,0,0,False,artist-stations:878,False,False,False
 880,SE,54,2007-12-06 16:24:18+00:00,2017-01-18 10:54:20+00:00,1217,1292,780,83,0,0,False,artist-stations:880,False,False,False
@@ -428,7 +428,7 @@ id,country_code,comments_count,created_at,last_modified,likes_count,followings_c
 950,GB,292,2007-12-13 12:33:25+00:00,2021-08-18 09:17:49+00:00,108,134,25457,3,12,321,True,artist-stations:950,True,False,True
 952,GB,2,2007-12-13 19:35:03+00:00,2009-07-06 13:11:45+00:00,0,0,63,0,0,0,False,artist-stations:952,False,False,False
 954,UnKnown,0,2007-12-14 09:05:58+00:00,2017-04-19 13:54:33+00:00,0,5,15,0,0,0,False,artist-stations:954,False,False,False
-956,GB,45,2007-12-14 12:50:36+00:00,2020-02-26 22:49:14+00:00,28,60,4581,5,4,18,False,artist-stations:956,False,False,False
+956,UnKnown,45,2007-12-14 12:50:36+00:00,2020-02-26 22:49:14+00:00,28,60,4581,5,4,18,False,artist-stations:956,False,False,False
 958,UnKnown,0,2007-12-14 16:31:45+00:00,2017-02-15 18:40:44+00:00,1,9,29,0,0,0,False,artist-stations:958,False,False,False
 960,UnKnown,37,2007-12-14 17:11:00+00:00,2019-09-19 13:43:23+00:00,561,452,607,18,6,19,False,artist-stations:960,False,False,False
 962,DE,11,2007-12-14 19:37:43+00:00,2019-10-22 19:07:56+00:00,54,119,180,0,0,11,False,artist-stations:962,False,False,False
@@ -456,7 +456,7 @@ id,country_code,comments_count,created_at,last_modified,likes_count,followings_c
 1010,SE,36,2007-12-19 22:18:58+00:00,2019-02-05 13:32:32+00:00,20,655,350,4,6,143,False,artist-stations:1010,True,False,False
 1012,DE,0,2007-12-20 11:26:08+00:00,2011-03-22 17:44:26+00:00,4,995,1803,0,3,18,False,artist-stations:1012,False,False,False
 1014,FR,124,2007-12-20 12:47:00+00:00,2021-05-29 14:15:02+00:00,40,345,3470,5,2,35,False,artist-stations:1014,True,False,False
-1016,UnKnown,235,2007-12-20 13:39:00+00:00,2021-10-11 16:44:34+00:00,249,238,52000,5,8,88,False,artist-stations:1016,True,False,False
+1016,GB,235,2007-12-20 13:39:00+00:00,2021-10-11 16:44:34+00:00,249,238,52000,5,8,88,False,artist-stations:1016,True,False,False
 1018,UnKnown,0,2007-12-20 14:31:02+00:00,2009-03-05 16:58:09+00:00,0,3,14,0,0,0,False,artist-stations:1018,False,False,False
 1020,DE,25,2007-12-20 15:13:02+00:00,2016-11-17 20:35:11+00:00,77,123,246,2,1,11,False,artist-stations:1020,False,False,False
 1022,FR,0,2007-12-20 16:08:15+00:00,2015-11-13 17:31:25+00:00,1,5,113,0,0,1,False,artist-stations:1022,False,False,False
@@ -492,7 +492,7 @@ id,country_code,comments_count,created_at,last_modified,likes_count,followings_c
 1084,UnKnown,0,2008-01-02 23:12:06+00:00,2016-05-16 16:22:04+00:00,25,30,26,8,2,9,False,artist-stations:1084,False,False,False
 1086,JP,44,2008-01-03 03:36:43+00:00,2021-04-09 17:55:02+00:00,108,337,632,5,1,17,False,artist-stations:1086,True,False,False
 1088,UnKnown,0,2008-01-04 07:42:41+00:00,2015-12-18 01:53:08+00:00,0,2,22,0,0,6,False,artist-stations:1088,False,False,False
-1090,GB,24,2008-01-04 12:08:23+00:00,2020-12-01 06:56:51+00:00,96,295,5620,9,15,47,True,artist-stations:1090,False,False,True
+1090,UnKnown,24,2008-01-04 12:08:23+00:00,2020-12-01 06:56:51+00:00,96,295,5620,9,15,47,True,artist-stations:1090,False,False,True
 1092,GB,0,2008-01-05 11:40:12+00:00,2009-03-05 16:58:18+00:00,0,1,82,0,0,0,False,artist-stations:1092,False,False,False
 1094,DE,10,2008-01-05 17:56:04+00:00,2019-06-13 13:00:42+00:00,13,51,660,1,1,7,False,artist-stations:1094,False,True,False
 1096,UnKnown,0,2008-01-06 16:04:12+00:00,2009-03-19 08:20:15+00:00,0,1,26,0,0,0,False,artist-stations:1096,False,False,False
@@ -524,7 +524,7 @@ id,country_code,comments_count,created_at,last_modified,likes_count,followings_c
 1154,UnKnown,0,2008-01-15 22:19:20+00:00,2009-03-05 16:58:26+00:00,0,0,23,0,0,0,False,artist-stations:1154,False,False,False
 1156,US,0,2008-01-16 01:47:31+00:00,2020-07-21 14:38:29+00:00,1,6,51,0,0,0,False,artist-stations:1156,False,False,False
 1158,ES,1,2008-01-16 13:34:41+00:00,2015-10-07 18:03:32+00:00,1,15,40,0,0,9,False,artist-stations:1158,False,False,False
-1160,UnKnown,16,2008-01-16 13:58:08+00:00,2021-07-24 09:10:01+00:00,32,100,3750,0,9,28,False,artist-stations:1160,False,False,False
+1160,GB,16,2008-01-16 13:58:08+00:00,2021-07-24 09:10:01+00:00,32,100,3750,0,9,28,False,artist-stations:1160,False,False,False
 1162,UnKnown,3,2008-01-16 15:42:00+00:00,2017-04-10 17:02:44+00:00,2,6,65,0,0,0,False,artist-stations:1162,False,False,False
 1166,SE,0,2008-01-16 21:10:50+00:00,2016-03-13 18:11:01+00:00,0,91,102,2,0,10,False,artist-stations:1166,False,False,False
 1168,NL,317,2008-01-16 23:56:16+00:00,2016-05-21 14:58:45+00:00,662,379,362,18,1,2,False,artist-stations:1168,False,False,False
@@ -564,7 +564,7 @@ id,country_code,comments_count,created_at,last_modified,likes_count,followings_c
 1242,GB,0,2008-01-24 20:31:17+00:00,2015-04-09 07:46:24+00:00,2,9,34,0,1,0,False,artist-stations:1242,False,False,False
 1244,US,1,2008-01-25 09:08:01+00:00,2018-01-11 09:36:04+00:00,1,4,26,0,0,0,False,artist-stations:1244,False,False,False
 1246,AQ,136,2008-01-25 14:31:32+00:00,2021-01-20 22:25:35+00:00,115,832,12863,5,2,59,True,artist-stations:1246,True,False,True
-1248,GB,13,2008-01-25 15:51:56+00:00,2017-02-28 07:22:20+00:00,32,82,609,1,1,17,False,artist-stations:1248,False,False,False
+1248,UnKnown,13,2008-01-25 15:51:56+00:00,2017-02-28 07:22:20+00:00,32,82,609,1,1,17,False,artist-stations:1248,False,False,False
 1250,DE,1,2008-01-25 17:39:00+00:00,2012-02-13 16:48:23+00:00,0,4,3084,0,0,0,False,artist-stations:1250,False,False,False
 1252,UnKnown,8,2008-01-25 18:59:30+00:00,2020-05-05 16:31:03+00:00,8,16,49,1,5,17,False,artist-stations:1252,False,False,False
 1254,ES,117,2008-01-25 21:03:00+00:00,2020-04-22 13:37:59+00:00,38,21,957,9,0,8,False,artist-stations:1254,True,False,False
@@ -579,11 +579,11 @@ id,country_code,comments_count,created_at,last_modified,likes_count,followings_c
 1272,UnKnown,0,2008-01-28 07:58:27+00:00,2020-05-24 12:16:03+00:00,2,21,37,0,1,2,False,artist-stations:1272,False,False,False
 1274,UnKnown,0,2008-01-28 19:26:06+00:00,2018-01-11 09:36:14+00:00,0,1,14,0,0,0,False,artist-stations:1274,False,False,False
 1278,UnKnown,0,2008-01-29 01:44:04+00:00,2018-01-11 09:36:15+00:00,0,1,57,0,0,0,False,artist-stations:1278,False,False,False
-1280,GB,523,2008-01-29 09:31:17+00:00,2021-06-08 09:37:15+00:00,243,935,4394,21,18,2,False,artist-stations:1280,False,False,False
+1280,UnKnown,523,2008-01-29 09:31:17+00:00,2021-06-08 09:37:15+00:00,243,935,4394,21,18,2,False,artist-stations:1280,False,False,False
 1282,UnKnown,0,2008-01-29 12:37:37+00:00,2018-01-11 09:36:17+00:00,0,0,7,0,0,0,False,artist-stations:1282,False,False,False
 1284,IT,62,2008-01-29 19:41:26+00:00,2020-04-06 11:50:36+00:00,130,179,2367,24,11,44,False,artist-stations:1284,False,True,False
 1286,US,12,2008-01-30 02:23:31+00:00,2021-05-02 01:17:44+00:00,6,10,70,1,1,72,False,artist-stations:1286,True,False,False
-1288,UnKnown,53,2008-01-30 07:55:36+00:00,2020-10-18 19:46:38+00:00,541,803,577,2,13,29,False,artist-stations:1288,False,False,False
+1288,US,53,2008-01-30 07:55:36+00:00,2020-10-18 19:46:38+00:00,541,803,577,2,13,29,False,artist-stations:1288,False,False,False
 1290,UnKnown,0,2008-01-30 13:27:29+00:00,2018-01-11 09:36:21+00:00,0,0,12,0,0,0,False,artist-stations:1290,False,False,False
 1292,UnKnown,0,2008-01-30 15:30:54+00:00,2018-01-11 09:36:22+00:00,0,0,3,0,0,0,False,artist-stations:1292,False,False,False
 1294,IT,18,2008-01-30 19:15:28+00:00,2018-01-11 09:36:25+00:00,14,687,552,0,0,7,False,artist-stations:1294,False,False,False
