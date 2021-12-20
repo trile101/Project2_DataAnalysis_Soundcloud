@@ -1,7 +1,7 @@
 # Project2_DataAnalysis_Soundcloud
 
 Team Members
-1. 19127353 - Lê Tán Đạt
+1. 19127353 - Lê Tấn Đạt
 2. 19127518 - Lê Hoàng Thịnh Phước
 3. 19127593 - Lê Tiến Trí
 
